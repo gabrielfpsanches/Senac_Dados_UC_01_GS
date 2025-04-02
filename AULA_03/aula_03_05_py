@@ -1,0 +1,10 @@
+# Escreva um programa que, dados 3 números inteiros (n1, n2 e n3), diga qual deles é maior
+
+# Entrada de Dados
+n1 = int(input("Informe o primeiro valor: "))
+n2 = int(input("Informe o segundo valor: "))
+n3= int(input("Informe o terceiro valor: "))
+
+# Processamento de Dados
+
+if n1 == n2:
